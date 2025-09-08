@@ -14,7 +14,6 @@ A machine learning project that predicts passenger survival on the Titanic using
 - [Key Findings](#key-findings)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
