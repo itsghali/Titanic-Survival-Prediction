@@ -190,16 +190,9 @@ titanic-survival-prediction/
 - ROC-AUC analysis
 - Handling class imbalance with techniques like SMOTE
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Kaggle for providing the Titanic dataset
 - The machine learning community for valuable insights and techniques
 - Scikit-learn documentation and examples
 
----
-
-**Note**: This is an educational project for learning machine learning concepts. The historical Titanic tragedy should be remembered with respect for those who lost their lives.
